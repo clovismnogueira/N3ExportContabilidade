@@ -1,0 +1,11 @@
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\bin\Debug\N3ExportContabilidade.exe
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\bin\Debug\N3ExportContabilidade.pdb
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.Properties.Resources.resources
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.csproj.GenerateResource.Cache
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.exe
+c:\users\clovis\documents\visual studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.pdb
+C:\Users\Clovis\Documents\Visual Studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.FrmApresentaLog.resources
+C:\Users\Clovis\Documents\Visual Studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.FrmConfigContas.resources
+C:\Users\Clovis\Documents\Visual Studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.FrmConfigContasCliFor.resources
+C:\Users\Clovis\Documents\Visual Studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.FrmPrincipalExportacao.resources
+C:\Users\Clovis\Documents\Visual Studio 2010\Projects\N3ExportContabilidade\N3ExportContabilidade\obj\x86\Debug\N3ExportContabilidade.MapeamentoFornecedores.resources
